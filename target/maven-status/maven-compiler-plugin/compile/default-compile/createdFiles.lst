@@ -1,0 +1,9 @@
+masecla\bqreborn\listeners\ChatFilterManipulator.class
+masecla\bqreborn\commands\MakeMod.class
+masecla\bqreborn\main\BQReborn.class
+masecla\bqreborn\managers\PlayerDataManager.class
+masecla\bqreborn\listeners\MobLevelCreator.class
+masecla\bqreborn\tasks\ScoreboardApplier.class
+masecla\bqreborn\listeners\VillagerInventoryPatch.class
+masecla\bqreborn\managers\OverallDataManager.class
+masecla\bqreborn\listeners\LevelManipulator.class

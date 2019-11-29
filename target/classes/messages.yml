@@ -1,0 +1,13 @@
+prefix: ""
+messages:
+    plugin:
+        player-modded: "&aThat player has been turned into a mod!"
+        player-demodded: "&aThat player has been demodded!"
+        player-not-a-mod: "&cThat player is not a mod!"
+        player-already-mod: "&cThat player is already a mod!"
+        player-self-modded: "&aYou feel as tough you become lighter, as tough you have been blessed by the skies. You are now a &a&lmoderator."
+        player-self-demodded: "&aYou have angered the gods and thus your blessing has been taken away. You are now a regular player!"
+        player-inexistent: "&cThat player doesn't exist!"
+        no-permission: "&cYou have no permission to do that!"
+        donations-link: "&aWe currently don't support server donations, but you can donate over here to help hosting! &7&lhttps://paypal.me/masecla22"
+        command-deprecated: "&cThat command is sadly deprecated! Please look into using %alternative%"
