@@ -11,3 +11,4 @@ messages:
         no-permission: "&cYou have no permission to do that!"
         donations-link: "&aWe currently don't support server donations, but you can donate over here to help hosting! &7&lhttps://paypal.me/masecla22"
         command-deprecated: "&cThat command is sadly deprecated! Please look into using %alternative%"
+        mod-player-ban: "&aYou have banned %player% forever!"
