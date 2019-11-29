@@ -10,9 +10,9 @@ commands:
     ban:
         description: "Adds player to the ban list"
         usage: "/ban <player>"
-    banlist:
-        description: "Prints the list of banned players"
-        usage: "/banlist"
+    bancheck:
+        description: "Checks if a player is banned"
+        usage: "/bancheck <player>"
     butcher:
         description: "kills all entities in the current chunk"
         usage: "/butcher"
